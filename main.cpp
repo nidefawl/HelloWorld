@@ -1,6 +1,6 @@
 #include <iostream>
 
-#error "Testing failed build"
+#error "Testing failed build."
 
 int main()
 {
